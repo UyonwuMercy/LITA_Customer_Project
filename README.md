@@ -58,6 +58,9 @@ Excel File: Open the file for preliminary data structure, cleaning, and data val
 SQL Scripts: Run the SQL queries for specific customer insights and calculations.
 Power BI Dashboard: Use the interactive dashboard for a comprehensive view and interactive filtering of customer data.
 
+## Visualization On Power BI
+![Screenshot (69)](https://github.com/user-attachments/assets/8e5eda10-c4ce-42a5-85f2-61585e23f418)
+
 ## Conclusion
 The Customer Data Repository provides a powerful approach to understanding customer behavior and revenue patterns, 
 enabling data-driven decisions for targeted marketing, customer retention, and subscription management.
