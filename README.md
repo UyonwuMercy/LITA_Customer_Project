@@ -13,9 +13,9 @@ Duration Calculation: Calculate subscription durations and identify long-term cu
 Cancellation Analysis: Track and analyze canceled subscriptions and the associated revenue impact.
 Project Structure
 
-- Data Collection and Preparation
-Source: Customer data file with the following columns:
-Customer ID: Unique identifier for each customer.
+### Data Collection and Preparation
+Source Customer data file with the following columns:
+- Customer ID: Unique identifier for each customer.
 Customer Name: Full name of the customer.
 Region: Geographical area of the customer.
 Subscription Type: Type of subscription (e.g., Basic, Premium).
